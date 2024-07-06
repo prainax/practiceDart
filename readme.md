@@ -4,7 +4,7 @@
 
  - https://hackmd.io/@kuzmapetrovich/S1x90jWGP
 
-> In Dart SDK version: 3.4.4 (stable)
+> Done in Dart SDK version: 3.4.4 (stable)
 
 Credits go to Michele Pratusevich, who is the author of [**Practice Python**](https://www.practicepython.org). 
 
